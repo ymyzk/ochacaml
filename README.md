@@ -2,8 +2,12 @@
 This is an unofficial fork of OchaCaml for Homebrew Formula.
 
 ## Changes
-- Character encoding: EUC-JP -> UTF-8
 - Generate a diff file using `git diff`
+- ~~Character encoding: EUC-JP -> UTF-8~~  
+  OchaCaml released after 2016/6/24 includes a UTF-8 encoded patch file.
+
+## Install
+- `brew install ymyzk/ymyzk/ochacaml`
 
 ## Links
 - [Unofficial Homebrew Formula](https://github.com/ymyzk/homebrew-ymyzk/blob/master/ochacaml.rb)
